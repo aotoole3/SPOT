@@ -1,0 +1,8 @@
+title: Spot
+description: By Alyson Hopkins & Anne O'Toole Fall 2016
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
