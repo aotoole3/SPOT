@@ -10,7 +10,5 @@ For this project, we used OpenCV and we were successful when we used detection b
 A collection of non-linear operations related to the morphology of features in an image.  The morphological operations rely only on the relative ordering of pixel values and not on their numberical values.  We eroded the video image which causes objects to shrink by stripping away layers of pixels from the boundaries of objects in an image.  We then dilated the image which causes objects to grow in size adidng pixels to the boundaries of the objects.  We converted to HSV (Hue, Saturation, Value) to help in the process of object recognition.  
 
 ### Future
+As car ownership becomes a thing of the past with the evolution of subscription services that incorporates autonomous vehicles, there will be less of a need for parking.  Autonomous vehicles will need less space to park becuase they will know exactly where and how to park.  Some parking garages have sensors installed that count the amount of empty spaces to alert drivers before they enter the garage.  Spot detects cars and other objects in real time and we are planning on creating an app to help drivers.  This app could incorporate multiple parking lots and garages to help drivers and eventually help autonomous vehicles.  
 
-
-### Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
