@@ -11,17 +11,7 @@ import javafx.fxml.FXMLLoader;
 public class ObjRecognition extends Application
 {
 	/**
-	 * The main class for a JavaFX application. It creates and handles the main
-	 * window with its resources (style, graphics, etc.).
-	 *
-	 * This application looks for any tennis ball in the camera video stream and
-	 * try to select them according to their HSV values. Found tennis balls are
-	 * framed with a blue line.
-	 *
-	 * @author <a href="mailto:luigi.derussis@polito.it">Luigi De Russis</a>
-	 * @version 1.1 (2015-11-26)
-	 * @since 1.0 (2015-01-13)
-	 *
+	 * Main class for the application
 	 */
 	@Override
 	public void start(Stage primaryStage)
