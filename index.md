@@ -1,4 +1,5 @@
 ### Abstract
+Spot, an application that recognizes cars and other objects in a parking lot using contrasting.  Spot stemmed from annoyance over the difficulty of finding parking spaces and grew because of the possibility of the future of autonomous cars.  By utilizing detection by contrasting, Spot has the ability to recognize cars and other objects like people in a parking lot.   
 
 ### Background
 We created Spot, an application that recognizes cars and other objects in a parking lot using contrasting.  When thinking about this project, we found that parking on campus was a huge problem and we wanted to create something bigger than Villanova as well.  So we began thinking about autonomous vehicles and the need to park in the future.  
